@@ -70,20 +70,25 @@ https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 데이터 전 처리: 머신러닝 모델에 필요한 입력값 형식으로 데이터 처리
 
 4.1. x와 y로 분리
+
 4.2. 데이터 정규화
 
 머신러닝 모델 학습: 분류 모델을 사용하여 학습 수행
 
 5.1. 기본 분류 모델 학습 - 로지스틱 분류기
+
 5.2. 다양한 분류 모델 학습
 
 평가 및 예측: 학습된 모델을 바탕으로 평가 및 예측 수행
 
 6.1. Confusion Matrix
+
 6.2. Precision & Recall
+
 6.3. 테스트 데이터의 예측값 출력
 
 데이터 출처
+
 https://archive.ics.uci.edu/ml/datasets/SECOM
 
 프로젝트 개요
